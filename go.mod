@@ -3,7 +3,7 @@ module github.com/hashicorp/terraform-provider-getstreamio
 go 1.17
 
 require (
-	github.com/GetStream/stream-chat-go/v6 v6.0.0
+	github.com/GetStream/stream-chat-go/v6 v6.1.0
 	github.com/dcarbone/terraform-plugin-framework-utils v1.1.0
 	github.com/hashicorp/terraform-plugin-docs v0.13.0
 	github.com/hashicorp/terraform-plugin-framework v0.9.0

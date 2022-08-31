@@ -1,8 +1,8 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/GetStream/stream-chat-go/v6 v6.0.0 h1:YNPvBaaqpwMs9ew2lP5/Sja59tRIsZGtbk8UvYxyOKI=
-github.com/GetStream/stream-chat-go/v6 v6.0.0/go.mod h1:FKdUg33+ZAJRFTnOTWLLqG7WQEs5wSrFpREFbkQV1I0=
+github.com/GetStream/stream-chat-go/v6 v6.2.0 h1:sp8GR6N1qOK92nkK3xiHS8DVvEdLX9GB7FbjQVmm6ws=
+github.com/GetStream/stream-chat-go/v6 v6.2.0/go.mod h1:FKdUg33+ZAJRFTnOTWLLqG7WQEs5wSrFpREFbkQV1I0=
 github.com/Masterminds/goutils v1.1.0/go.mod h1:8cTjp+g8YejhMuvIA5y2vz3BpJxksy863GQaJW2MFNU=
 github.com/Masterminds/goutils v1.1.1 h1:5nUrii3FMTL5diU80unEVvNevw1nH4+ZV4DSLVJLSYI=
 github.com/Masterminds/goutils v1.1.1/go.mod h1:8cTjp+g8YejhMuvIA5y2vz3BpJxksy863GQaJW2MFNU=
